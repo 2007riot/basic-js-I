@@ -182,7 +182,7 @@ console.log(res)
 let res2 = a < 10 && b < 1 //Eliminar el espacio "__" y coloca el comparador lógico que consideres para que el resultado sea false
 console.log(res2)
 
-let res3 = a == 5 === b == 5 //Eliminar el espacio "__" y coloca el comparador lógico que consideres para que el resultado sea false
+let res3 = a == 5 || b == 5 //Eliminar el espacio "__" y coloca el comparador lógico que consideres para que el resultado sea false
 console.log(res3)
 
 let res4 = a == 6 || b == 0 //Eliminar el espacio "__" y coloca el comparador lógico que consideres para que el resultado sea true
